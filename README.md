@@ -1,3 +1,21 @@
-0x16. C - Simple Shell
-COLLABORATIVE WORK BETWEEN EMMANUEL FASOGBA AND MCDONALD AMURE.
-CREATING OUR OWN SIMPLE SHELL.
+# Simple Shell Collaborative Project 
+
+## CREATING OUR OWN  SHELL.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Collaborative Authors
+### [Emmanuel Fasogba](https://github.com/fashemma007) & [McDonald Amure](https://github.com/Certifieddonnie)
