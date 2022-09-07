@@ -1,4 +1,4 @@
-#include "shell.c"
+#include "shell.h"
 
 /**
  * read_line - reads the input string.
@@ -12,5 +12,5 @@ char *read_line(int *i_eof)
 
 	*i_eof = getline(&entry, &bufsize, stdin);
 
-	return (input);
+	return (entry);
 }
